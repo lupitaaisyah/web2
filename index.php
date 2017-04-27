@@ -1,3 +1,4 @@
 <?php  
-echo "hallo";
+echo "Assalamualaikum";
+echo "SELAMAT DATANG";
 ?>
