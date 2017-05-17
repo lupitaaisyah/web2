@@ -1,7 +1,4 @@
-    <?php 
-include_once 'navigasi.php';
-include_once 'header.php';
-?>
+ 
 <!-- Page Content -->
     <div class="container">
         <div class="row">
@@ -75,9 +72,5 @@ include_once 'header.php';
 
             </div>
 
-<?php 
 
-include_once 'sidebar.php';
-include_once 'footer.php';
- ?>
  
