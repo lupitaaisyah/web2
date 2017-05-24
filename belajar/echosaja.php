@@ -2,7 +2,7 @@
 $resep = array(array("buah"=>"Pepaya","banyak"=>"1","tambahan"=>"kecap"),
 			   array("buah"=>"Mangga","banyak"=>"3","tambahan"=>"Susu"),
 			   array("buah"=>"Pisang","banyak"=>"5","tambahan"=>"Capuccino"),
-				)
+				);
 
  ?>
  <!DOCTYPE html>
@@ -26,3 +26,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
  ?>
 </body> 
 </html>
+
+Kategori 
+-id_kategori
+-nama_kategori
