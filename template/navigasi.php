@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -18,7 +18,7 @@
     <link href="template/css/modern-business.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="template/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="template/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -29,8 +29,8 @@
 
 </head>
 
-<body>
 
+<body>
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
@@ -76,6 +76,7 @@
                             </li>
                         </ul>
                     </li>
+
                     <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
                         <ul class="dropdown-menu">
